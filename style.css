@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+    color: white;
+
+}
+
+  h1 {
+    text-align: center;
+  }
+    
+  input {
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px 0 0 4px;
+    flex-grow: 1;
+  }
+  
+  button {
+    padding: 12px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+  }
